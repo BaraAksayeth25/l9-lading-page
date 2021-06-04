@@ -57,7 +57,7 @@ header .btn {
 
 .main {
   width: 100%;
-  background-image: url(./material/assets/images/hero-image.jpg);
+  background-image: url(../material/assets/images/hero-image.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 2em 0;
@@ -302,6 +302,22 @@ footer p.small {
   .slide {
     display: block;
   }
+  .slide .col-lg-4 {
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+  }
+
+  .wrapper-icon {
+    display: flex;
+    justify-content: center;
+  }
+
+  .icon {
+    margin-right: 0;
+  }
+
   .feature .row {
     display: none;
   }
