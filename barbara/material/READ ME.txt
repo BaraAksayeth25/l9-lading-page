@@ -1,0 +1,21 @@
+Material Needed: 
+
+1. Silakan download color cop untuk kebutuhan pengambilan warna:
+http://colorcop.net/download/
+
+2. Font yang digunakan:
+https://fonts.google.com/specimen/Inter?qFrond End Development Learning Path uery=inter
+
+3. Untuk mempermudah layouting silakan menggunakan framework css bootstrap:
+https://getbootstrap.com/
+
+4. Untuk Icon menggunakan:
+https://fontawesome.com/
+
+
+Happy Coding! >,<
+
+
+
+
+
